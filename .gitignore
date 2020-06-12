@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+keys/keys.dev.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# Optional prettier
+.prettierignore
