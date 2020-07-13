@@ -13,3 +13,6 @@ keys/keys.dev.js
 
 # Optional prettier
 .prettierignore
+
+# VS Code
+.vscode
